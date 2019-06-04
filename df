@@ -1,0 +1,30 @@
+[33mcommit 2737f675fd894a9c48d09d117f599c4a4d18d859[m[33m ([m[1;36mHEAD -> [m[1;32mbranch2[m[33m, [m[1;31morigin/teste[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mteste[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: eacb269 acf1c4e
+Author: dalton-levi <dalton.levi@gmail.com>
+Date:   Sun May 26 21:22:49 2019 -0300
+
+    Merge branch 'master' of github.com:dalton-levi/primeiro-repo
+
+[33mcommit eacb269d573478f73500248e76606ed6d18adc3b[m
+Author: dalton-levi <dalton.levi@gmail.com>
+Date:   Sun May 26 21:21:29 2019 -0300
+
+    Criação de mais um arquivo
+
+[33mcommit acf1c4e1f01bb39ff63bfbe8b1250386403ffd29[m
+Author: dalton-levi <51059162+dalton-levi@users.noreply.github.com>
+Date:   Sun May 26 21:19:40 2019 -0300
+
+    Alterado novo arquivo
+
+[33mcommit 7b10f5cfbc76f907f44c102760b360bf0c509208[m
+Author: dalton-levi <dalton.levi@gmail.com>
+Date:   Sun May 26 21:14:36 2019 -0300
+
+    inserindo um novo arquivo
+
+[33mcommit b713385cdcc1890918872e7ce668eb378399d484[m
+Author: dalton-levi <51059162+dalton-levi@users.noreply.github.com>
+Date:   Sun May 26 17:13:43 2019 -0300
+
+    Initial commit
